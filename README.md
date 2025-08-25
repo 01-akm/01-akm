@@ -1,5 +1,7 @@
+# ✋ Here's Adarsh Kumar Mishra
 # 💫 About Me:
-🔭 I’m currently working on a React Native Project It's Attendance Management System <br>🤝 I’m looking for help with<br>🌱 I’m currently learning About Api Intigration <br>💬 Ask me about<br>
+🔭 I’m currently working on a React Native Project It's An Attendance Management System With Real time faca Verification <br>🌱 I’m currently learning About Api Intigration <br>💬 Ask me about Html Css Javascript Php MySQL <br>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/01-akm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/01-akm) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/01-akm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kraadi4941@gmail.com) 
 
