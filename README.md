@@ -27,4 +27,16 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=01-akm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=01-akm&theme=react-dark&area=true&hide_border=false" alt="Adarsh's GitHub Activity Graph" />
+</p>
+
+---
+
+<h2 align="center">💡 “Turning Ideas Into Innovative Tech With Code & Creativity!” ✨</h2>
+
+
+
+
