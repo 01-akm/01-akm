@@ -12,19 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=01-akm&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=01-akm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anum-2017&theme=react-dark&area=true&hide_border=false" alt="Anum Kamal's GitHub Activity Graph" />
-</p>
-
----
-
-<h2 align="center">💡 “Turning Ideas Into Innovative Tech With Code & Creativity!” ✨</h2>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer" />
-</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=01-akm&theme=radical&no-frame=false&no-bg=false&margin-w=4)
