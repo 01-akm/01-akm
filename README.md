@@ -2,6 +2,8 @@
 # 💫 About Me:
 🔭 I’m currently working on a React Native Project It's An Attendance Management System With Real time faca Verification <br>🌱 I’m currently learning About Api Intigration <br>💬 Ask me about Html Css Javascript Php MySQL <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=01-akm&label=Profile%20views&color=0e75b6&style=flat" alt="0-akm" /> </p>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/01-akm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/01-akm) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/01-akm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kraadi4941@gmail.com) 
 
