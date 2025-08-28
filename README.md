@@ -1,8 +1,8 @@
-# ✋ Here's Adarsh Kumar Mishra
+# ✋ Here's Adarsh Kumar Mishra  <img src="https://komarev.com/ghpvc/?username=01-akm&label=Profile%20views&color=0e75b6&style=flat" alt="0-akm" align="right" width="165"/>
 # 💫 About Me:
 🔭 I’m currently working on a React Native Project (AMS) <br>🌱 I’m currently learning About Api Intigration <br>💬 Ask me about Html Css Javascript Php MySQL <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=01-akm&label=Profile%20views&color=0e75b6&style=flat" alt="0-akm" /> </p>
+
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/01-akm">
