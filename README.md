@@ -14,9 +14,6 @@
 <a href="https://discord.com/users/01-akm">
   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" width="200"/>
 </a>
-<a href="https://reddit.com/user/01-akm">
-  <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white" width="185"/>
-</a>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=01-akm&limit=5&theme=dark&combine_all_yearly_contributions=true)
