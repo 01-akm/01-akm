@@ -11,7 +11,12 @@
 <a href="mailto:kraadi4941@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" width="170"/>
 </a>
-
+<a href="https://discord.com/users/npm-akm">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" width="200"/>
+</a>
+<a href="https://reddit.com/user/npmakm">
+  <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white" width="185"/>
+</a>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=npmakm&limit=5&theme=dark&combine_all_yearly_contributions=true)
